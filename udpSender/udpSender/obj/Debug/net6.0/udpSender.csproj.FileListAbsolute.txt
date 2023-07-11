@@ -1,0 +1,15 @@
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\bin\Debug\net6.0\udpSender.exe
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\bin\Debug\net6.0\udpSender.deps.json
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\bin\Debug\net6.0\udpSender.runtimeconfig.json
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\bin\Debug\net6.0\udpSender.dll
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\bin\Debug\net6.0\udpSender.pdb
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.csproj.AssemblyReference.cache
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.AssemblyInfoInputs.cache
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.AssemblyInfo.cs
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.csproj.CoreCompileInputs.cache
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.dll
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\refint\udpSender.dll
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.pdb
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\udpSender.genruntimeconfig.cache
+C:\Users\Никита Калинин\source\repos\udpSender\udpSender\obj\Debug\net6.0\ref\udpSender.dll

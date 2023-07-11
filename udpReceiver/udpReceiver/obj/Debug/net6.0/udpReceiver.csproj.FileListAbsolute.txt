@@ -1,0 +1,15 @@
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\bin\Debug\net6.0\udpReceiver.exe
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\bin\Debug\net6.0\udpReceiver.deps.json
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\bin\Debug\net6.0\udpReceiver.runtimeconfig.json
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\bin\Debug\net6.0\udpReceiver.dll
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\bin\Debug\net6.0\udpReceiver.pdb
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.csproj.AssemblyReference.cache
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.AssemblyInfoInputs.cache
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.AssemblyInfo.cs
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.dll
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\refint\udpReceiver.dll
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.pdb
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\udpReceiver.genruntimeconfig.cache
+C:\Users\Никита Калинин\source\repos\udpReceiver\udpReceiver\obj\Debug\net6.0\ref\udpReceiver.dll

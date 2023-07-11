@@ -1,0 +1,15 @@
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\bin\Debug\net6.0\udpDelayer.exe
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\bin\Debug\net6.0\udpDelayer.deps.json
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\bin\Debug\net6.0\udpDelayer.runtimeconfig.json
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\bin\Debug\net6.0\udpDelayer.dll
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\bin\Debug\net6.0\udpDelayer.pdb
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.csproj.AssemblyReference.cache
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.AssemblyInfoInputs.cache
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.AssemblyInfo.cs
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.csproj.CoreCompileInputs.cache
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.dll
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\refint\udpDelayer.dll
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.pdb
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\udpDelayer.genruntimeconfig.cache
+C:\Users\Никита Калинин\source\repos\udpDelayer\udpDelayer\obj\Debug\net6.0\ref\udpDelayer.dll
